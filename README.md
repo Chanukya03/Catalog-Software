@@ -20,12 +20,12 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/soukarja/software-component-cataloguing-software.git
+   git clone https://github.com/Chanukya03/Catalog-Software.git
    ```
 
 2. Change into the project directory:
    ```bash
-   cd software-component-cataloguing-software
+   cd Catalog-Software
    ```
 3. Install dependencies:
    ```bash
